@@ -1,0 +1,19 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Ambiente virtual
+.venv/
+env/
+*.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dados sensíveis ou brutos
+data/*.csv
+data/*.xlsx
+data/*.zip
+*.bak
