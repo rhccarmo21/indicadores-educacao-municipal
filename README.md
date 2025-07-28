@@ -24,6 +24,7 @@ Este projeto busca compreender padrões, desigualdades e tendências na educaç�
 
 ---
 
+
 ## 📁 Estrutura do Projeto
 
 indicadores-educacao-municipal/
