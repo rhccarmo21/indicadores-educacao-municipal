@@ -28,6 +28,7 @@ Este projeto busca compreender padrões, desigualdades e tendências na educaç�
 ## 📁 Estrutura do Projeto
 
 indicadores-educacao-municipal/
+
 ├── data/ # Dados brutos e processados
 
 ├── notebooks/ # Jupyter Notebooks com análises
