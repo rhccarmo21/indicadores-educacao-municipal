@@ -35,7 +35,7 @@ indicadores-educacao-municipal/
 
 ├── src/ # Scripts auxiliares e funções
 
-├── limpeza/ # Pré-processamento e limpeza de dados
+├── preprocessing/ # Pré-processamento e limpeza de dados
 
 ├── outputs/ # Gráficos, tabelas e resultados
 
