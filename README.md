@@ -29,16 +29,27 @@ Este projeto busca compreender padrões, desigualdades e tendências na educaç�
 
 indicadores-educacao-municipal/
 ├── data/ # Dados brutos e processados
+
 ├── notebooks/ # Jupyter Notebooks com análises
+
 ├── src/ # Scripts auxiliares e funções
+
 ├── limpeza/ # Pré-processamento e limpeza de dados
+
 ├── outputs/ # Gráficos, tabelas e resultados
+
 ├── analise/ # Relatórios e interpretações
+
 ├── docs/ # Documentação complementar
+
 ├── tests/ # Testes do código
+
 ├── README.md # Este arquivo
+
 ├── requirements.txt # Dependências do projeto
+
 ├── .gitignore # Arquivos a serem ignorados pelo Git
+
 └── LICENSE # Licença do projeto
 
 
